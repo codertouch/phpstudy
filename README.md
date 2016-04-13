@@ -1,2 +1,2 @@
 # phpstudy
-php learner code
+php learner code，not a project
